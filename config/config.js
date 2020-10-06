@@ -1,5 +1,4 @@
 const MongoClient = require('mongodb').MongoClient;
-const uri = "mongodb+srv://wasimxprt:hW1pP4IApu3sjqbE@cluster0.ceuz9.mongodb.net/test?retryWrites=true&w=majority";
 // const client = new MongoClient(uri, { useNewUrlParser: true });
 // client.connect(err => {
 //   const collection = client.db("test").collection("devices");
